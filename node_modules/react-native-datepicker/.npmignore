@@ -1,0 +1,7 @@
+example
+.*
+coverage
+index.js
+android/
+ios/
+google_calendar.png

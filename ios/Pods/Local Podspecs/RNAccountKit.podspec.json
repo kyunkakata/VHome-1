@@ -1,0 +1,24 @@
+{
+  "name": "RNAccountKit",
+  "version": "1.0.0",
+  "summary": "A react-native library for Facebook Account Kit",
+  "homepage": "https://github.com/underscopeio/react-native-facebook-account-kit.git",
+  "license": "MIT",
+  "authors": "Underscope",
+  "source": {
+    "git": "https://github.com/underscopeio/react-native-facebook-account-kit.git"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source_files": "*.{h,m}",
+  "preserve_paths": "*.js",
+  "dependencies": {
+    "React": [
+
+    ],
+    "AccountKit": [
+
+    ]
+  }
+}

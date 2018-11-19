@@ -1,0 +1,6 @@
+<resources>
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">quU5vVFQ498PLrd5PgQDiDSjbTjAc0b6ae61-258a-48b0-bf3d-63fe54772ef4</string>
+    <string name="app_name">VHome</string>
+    <string name="fb_app_id">647267382335074</string>
+    <string name="ak_client_token">a32173af1c31b4048cf9d50ebc8412ea</string>
+</resources>

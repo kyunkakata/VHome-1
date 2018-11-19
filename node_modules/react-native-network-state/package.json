@@ -1,0 +1,26 @@
+{
+  "name": "react-native-network-state",
+  "version": "1.0.4",
+  "description": "Easy control network status in React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-vietnam",
+    "react-native-network-state",
+    "agiletechvn",
+    "anhtuank7c"
+  ],
+  "author": "anhtuank7c@hotmail.com (Anh Tuan Nguyen)",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": ">= 16.4.1",
+    "react-native": ">= 0.55.4",
+    "fbjs": "*"
+  },
+  "devDependencies": {
+    "flow-bin": "^0.78.0"
+  }
+}
